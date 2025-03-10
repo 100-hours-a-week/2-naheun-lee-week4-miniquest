@@ -1,16 +1,17 @@
 # 미니퀘스트1
 
-
+<br>
 ### 🎯 1번 퀘스트
 
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 **다음 요구 사항을 충족하는 객체 `myPet`을 만드세요.**
+</div>
 - `myPet` 객체는 `name` (이름)과 `type` (종류), 두 개의 속성을 가져야 합니다.
 - `name`의 값은 "Momo"이고, `type`의 값은 "Cat"입니다.
 - 객체를 생성한 후, `console.log`를 사용하여 `myPet` 객체의 `name`과 `type`을 출력하는 코드를 작성하세요.   
 
-<br><br>
+<br>
 ### 🎯 2번 퀘스트
-
 
 **다음 요구 사항을 충족하는 `Person` 클래스를 만들고, 그 인스턴스를 생성하세요.**
 - `Person` 클래스는 `constructor`를 사용하여 이름(`name`)과 나이(`age`)를 초기화해야 합니다.
